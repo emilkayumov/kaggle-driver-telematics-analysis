@@ -7,4 +7,5 @@ Kaggle competition "Driver Telematics Analysis".
 - svm.py - use svm to predict from numpy array of 77 features
 
 my best result is 0.91051 from randomforest without merge
+
 svm and merge rf with svm made worse result (0.87060 and 0.90004)
