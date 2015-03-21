@@ -9,3 +9,5 @@ Kaggle competition "Driver Telematics Analysis".
 my best result is 0.91051 from randomforest without merge
 
 svm and merge rf with svm made worse result (0.87060 and 0.90004)
+
+http://www.kaggle.com/users/246439/emil-kayumov
